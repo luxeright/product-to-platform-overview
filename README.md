@@ -25,7 +25,7 @@ The instructions are written in Markdown and can be supplied to assistants that 
 
 ## Get the skill
 
-Product-to-Platform will be available through the creator’s Agensi listing. The purchase link will be added here when supplied.
+[Visit Luxeright on Agensi to find the skill and purchase options →](https://agensi.io/creators/luxeright)
 
 This repository is a product overview. The full skill package is distributed separately.
 
